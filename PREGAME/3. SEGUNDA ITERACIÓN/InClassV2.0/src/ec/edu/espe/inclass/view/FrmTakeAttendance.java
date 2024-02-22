@@ -27,7 +27,7 @@ public class FrmTakeAttendance extends javax.swing.JFrame {
         this.setResizable(false);
         
         FrmTakeAttendance instance = this;
-
+        FormController.initCmbClasses(instance);
         // Agregar un ActionListener al JComboBox
         cmbNrc.addActionListener((ActionEvent e) -> {
             DataPersistence dataPersistence;

@@ -740,7 +740,8 @@ public class FormController {
     public static void initCmbClasses(FrmTakeAttendance frame) {
         DataPersistence dataPersistence;
         dataPersistence = DataPersistence.getInstance();
-        int numClasses;        
+        int numClasses;
+
         if (!dataPersistence.getTeacher().getCourses().get(dataPersistence.getPosition()).getStudents().isEmpty()) {
             numClasses = dataPersistence.getTeacher().getCourses().get(dataPersistence.getPosition()).getStudents().get(0).getAttendanceRecord().getAttendance().size();
             for (int i = 1; i <= numClasses; i++) {
