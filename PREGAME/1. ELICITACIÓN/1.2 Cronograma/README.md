@@ -1,4 +1,4 @@
-# 📋 Índice - Carpeta 15035_G1_ADSW/PREGAME/1. ELICITACIÓN 📋
+# 📋 Índice - Carpeta 15035_G1_ADSW/PREGAME/1.2 Cronograma 📋
 
 ---
 
