@@ -20,11 +20,9 @@
 ### 🔢 NRC:
 - **15035**
 
----
-
 ### 🎥 Video con Cliente:
 - **[Ver aquí](https://youtu.be/UWoSYQ-sTgw)**
-- 
+  
 ### 🎥 Video Final con Cliente:
 - **[Ver aquí](https://youtu.be/cLvONoOToAE)**
 
