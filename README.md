@@ -1,6 +1,6 @@
 # 📘 Proyecto InClass - Universidad de las Fuerzas Armadas ESPE 📘
 
-## 🌟 Grupo: 15035_G1_ADSW 🌟
+## 🌟 Grupo: 15035_G1_ADSW 🌟INCLASS PLATAFORMA EDUCATIVA
 
 ---
 
