@@ -25,3 +25,6 @@
 ### 🎥 Video con Cliente:
 - **[Ver aquí](https://youtu.be/UWoSYQ-sTgw)**
 
+### 🎥 Video Pruebas Aplicativo:
+- **[Ver aquí](https://youtu.be/uFO49MeyGeA)**
+
