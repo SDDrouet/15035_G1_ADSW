@@ -1,5 +1,8 @@
 # 📘 Proyecto InClass - Universidad de las Fuerzas Armadas ESPE 📘
 
+![Logo ESPE](https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_ESPE.png)
+
+
 ## 🌟 Grupo: 15035_G1_ADSW 🌟INCLASS PLATAFORMA EDUCATIVA
 
 ---
